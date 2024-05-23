@@ -1,3 +1,6 @@
+# I AM NOT THE AUTHOR OF THE PROJECT CONTAINED IN THIS REPOSITORY
+# THIS REPOSITORY WAS COPIED FROM https://github.com/creativetimofficial/vue-paper-dashboard FOR EDUCATIONAL PURPOSES
+
 # [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
 
 > Admin dashboard based on paper dashboard UI template + vue-router
